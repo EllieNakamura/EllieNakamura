@@ -9,10 +9,5 @@ Hello! I'm Ellie, an Information Systems student.  👨‍💻
 
 - Email: nakaelbsi@gmail.com
 
-\|/          (__)    
-     `\------(oo)
-       ||    (__)
-       ||w--||     \|/
-   \|/
 
 🐄 May Valerio be with you 🐄

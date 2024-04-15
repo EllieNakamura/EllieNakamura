@@ -2,7 +2,7 @@
 
 Hello! I'm Ellie, an Information Systems student.  👨‍💻
 
-- 🌱 Learning Python and web development.
+- 🌱 Learning Python,HTML,CSS and Javascript and others web development stuffs.
 - 🧟‍♀️ Crafting chimeras, some dark magic spells and other abominable things as a method of learning front-end development.
 
 ## Contact
